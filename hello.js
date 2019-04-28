@@ -1,5 +1,5 @@
-<<<<<<< HEAD
--
+
+
 sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 ssdkjgaldsjgldsgjsdlghhsdhgl
@@ -19,5 +19,10 @@ sadfgsd
 sdgsdagadsgfsaaaaaaaaaaa
 
 
+<<<<<< HEAD
 sadfsafsd1
 >>>>>>> dome2
+=======
+=====================
+
+>>>>>> dome2
