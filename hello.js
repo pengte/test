@@ -16,4 +16,16 @@ sadfgsd
 
 sdgsdagadsgfsaaaaaaaaaaa
 
+<<<<<<< HEAD
 sadfsafsd1
+=======
+
+=====================
+
+
+
+sdfsafd---------------------------------------------------------
+
+
+adfsafsd1
+>>>>>>> dome1
